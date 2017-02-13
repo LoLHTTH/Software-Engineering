@@ -1,9 +1,7 @@
-﻿  ShipType.cpp
-  Generating Code...
-  Compiling...
-  Ship.cpp
+﻿  Square.cpp
   Grid.cpp
-  BattleShips.cpp
   Generating Code...
-  BattleShips.vcxproj -> C:\Users\c00201361\Desktop\BattleShips\Debug\BattleShips.exe
-  BattleShips.vcxproj -> C:\Users\c00201361\Desktop\BattleShips\Debug\BattleShips.pdb (Partial PDB)
+  Skipping... (no relevant changes detected)
+  BattleShips.cpp
+  BattleShips.vcxproj -> C:\Users\c00201361\Desktop\Software-Engineering\BattleShips\Debug\BattleShips.exe
+  BattleShips.vcxproj -> C:\Users\c00201361\Desktop\Software-Engineering\BattleShips\Debug\BattleShips.pdb (Partial PDB)

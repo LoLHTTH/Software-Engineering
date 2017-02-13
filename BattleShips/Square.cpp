@@ -7,5 +7,22 @@ Square::Square()
 
 bool Square::checkActive()
 {
-	return false;
+	return true;
+}
+
+bool Square::isShipOn()
+{
+	return true;
+}
+int Square::getX()
+{
+	return x;
+}
+int Square::getY()
+{
+	return y;
+}
+void Square::setActiveFalse()
+{
+	active = false;
 }
